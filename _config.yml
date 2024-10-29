@@ -1,0 +1,5 @@
+title: My Jekyll Site
+description: A description of my site.
+baseurl: "/Events"  # Set to your repository name
+url: "http://suhil1234.github.io"  # Your GitHub Pages site URL
+theme: jekyll-theme-slate  # Specify your theme
